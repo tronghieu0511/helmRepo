@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mywebtest:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2023-10-04T17:34:31.843759329Z"
+    description: A helm chart for K8s
+    digest: 185cc7764afca02ba5674e0fd0206524663059d1459e6dc49dc77288e7a68da0
+    name: mywebtest
+    type: application
+    urls:
+    - publish/mywebtest-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-10-04T17:34:31.826380234Z"
